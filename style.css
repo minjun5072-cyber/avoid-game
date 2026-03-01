@@ -15,3 +15,13 @@ canvas {
 canvas {
   touch-action: none;
 }
+
+body {
+  margin: 0;
+  overflow: hidden;
+  background: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
